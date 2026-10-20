@@ -1,0 +1,3 @@
+aws_region   = "eu-central-1"
+harness_name = "a2a_security_auditor"
+model_id     = "eu.anthropic.claude-haiku-4-5-20251001-v1:0"
